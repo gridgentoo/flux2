@@ -1,3 +1,9 @@
+Оригинальный репозитарий.    
+https://github.com/fluxcd/flux2.  
+
+Управляйте кластерами Kubernetes с помощью Flux2.   
+https://docs.google.com/document/d/1AEsshRkAoxVZZeyuFLMP3DmDCez5xKkJyNdAoFsoj-k/
+
 # Flux version 2
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4782/badge)](https://bestpractices.coreinfrastructure.org/projects/4782)
